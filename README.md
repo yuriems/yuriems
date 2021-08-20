@@ -1,7 +1,6 @@
 ## Hi there! I am Yuri Santos 👋
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/yuriems">
